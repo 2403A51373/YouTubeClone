@@ -1,5 +1,4 @@
 # YouTube Clone (HTML & CSS)
-
 A front-end clone of the YouTube homepage built using HTML and CSS.  
 This project focuses on layout design, responsive UI, and modern CSS styling.
 
