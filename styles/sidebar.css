@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .sidebar{
     position: fixed;
     left: 0;
@@ -27,4 +28,35 @@
 }
 .sidebar-link div {
     font-family:  'Arial Narrow', Arial, sans-serif;
+=======
+.sidebar{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 55px;
+    background-color: white;
+    width: 90px;
+    padding-top: 20px;
+   z-index: 200px;
+}
+.sidebar-link{
+
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 74px;
+    cursor: pointer;
+}
+.sidebar-link:hover{
+    background-color: rgb(235, 230, 230);
+}
+.sidebar-link img {
+    height: 24px;
+    margin-bottom: 4px;
+}
+.sidebar-link div {
+    font-family:  'Arial Narrow', Arial, sans-serif;
+>>>>>>> 02fe275aa926ce8deef3414f0f8d1ac98529a095
 }

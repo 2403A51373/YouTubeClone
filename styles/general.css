@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .p{
     font-family: Roboto,arial;
     margin-top: 0%;
@@ -10,4 +11,18 @@
     padding-right: 24px;
     background-color: lightgray;
 }
+=======
+.p{
+    font-family: Roboto,arial;
+    margin-top: 0%;
+    margin-bottom: 0%;
+  }
+  .body{
+    margin: 0;
+    padding-top: 80px;
+    padding-left: 96px;
+    padding-right: 24px;
+    background-color: lightgray;
+}
+>>>>>>> 02fe275aa926ce8deef3414f0f8d1ac98529a095
 /* hehe*/
